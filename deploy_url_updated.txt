@@ -1,0 +1,8 @@
+Updated Netflix Clone URL: https://tkfwsf7i9w.space.minimax.io
+
+Fixed Issue: Input text visibility in signup membership section
+- Added explicit text color (text-black) to all input fields
+- Added placeholder color (placeholder-gray-500) for better contrast
+- Applied fix to all input fields across signup steps and login page
+
+The application now displays typed text clearly in all form fields.
